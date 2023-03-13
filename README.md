@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "script one prints hello world"
+echo "script 1 prints hello world"
